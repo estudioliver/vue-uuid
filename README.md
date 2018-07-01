@@ -9,16 +9,16 @@ Plugin VueJs to easy get UUIDv4
 # Installation
 
 ``` bash
-$ npm install --save vue-uuid
+$ npm install --save vueuuid
 ```
 
 # Usage
 ``` html
 import Vue from 'vue'
-import uuid from 'vue-uuid'
+import uuid from 'vueuuid'
 import App from './App.vue'
 
-// The plugin is loaded here.
+// The plugin is loaded.
 Vue.use(uuid)
 
 new Vue({

@@ -1,5 +1,5 @@
 {
-  "name": "vue-uuid",
+  "name": "vueuuid",
   "version": "1.0.0",
   "description": "Plugin VueJs to get UUIDv4",
   "main": "vue-uuid.js",
