@@ -1,0 +1,31 @@
+{
+  "name": "vue-uuid",
+  "version": "1.0.0",
+  "description": "Plugin VueJs to get UUIDv4",
+  "main": "vue-uuid.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estudioliver/vue-uuid.git"
+  },
+  "keywords": [
+    "vue",
+    "vuejs",
+    "vue-uuid",
+    "uuid",
+    "vueuuid",
+    "uuidv4",
+    "plugin"
+  ],
+  "author": {
+    "name": "Estudioliver",
+    "email": "info@estudioliver.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/estudioliver/vue-uuid/issues"
+  },
+  "homepage": "https://github.com/estudioliver/vue-uuid#readme"
+}
