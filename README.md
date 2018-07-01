@@ -1,5 +1,5 @@
-# vue-uuid
-Plugin VueJs to easy get UUIDv4
+# vue-uuid-v4
+Plugin Vue to easy get UUIDv4
 
 # Requirements
 
@@ -9,13 +9,13 @@ Plugin VueJs to easy get UUIDv4
 # Installation
 
 ``` bash
-$ npm install --save vueuuid
+$ npm install --save @estudioliver/vue-uuid-v4
 ```
 
 # Usage
 ``` html
 import Vue from 'vue'
-import uuid from 'vueuuid'
+import uuid from '@estudioliver/vue-uuid-v4'
 import App from './App.vue'
 
 // The plugin is loaded.
