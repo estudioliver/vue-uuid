@@ -25,7 +25,7 @@ new Vue({
   el: '#app',
   render: h => h(App),
   mounted() {
-   console.log(this.$uuidKey) // --> b9c9aa52-16b8-4745-a945-2846c81eeb82
+   console.log(this.$uuidKey()) // --> b9c9aa52-16b8-4745-a945-2846c81eeb82
   }
 });
 ```
